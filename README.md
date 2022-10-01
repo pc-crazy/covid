@@ -1,7 +1,7 @@
 ## Corona Data Chart
 
 ## Features:
-- Corona cases bar chart of specified date range of country.
+- Corona cases bar chart of country.
 
 1. Create virtual environment to install dependencies.
 
@@ -78,6 +78,5 @@ body={
 }
 ```
 It return:
-```
-	It will retrun graph. 
-```
+![response](https://user-images.githubusercontent.com/29941524/193410763-29f66d55-7c26-41bf-a1a8-a121a5cdbba6.png)
+
